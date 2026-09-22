@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//teste de alteracao
+
 struct abastecimento{
     float quilometragem;
     float valor_total;
